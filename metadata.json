@@ -1,0 +1,6 @@
+{
+  "name": "Retroalimentação PFMEA & Fast Response",
+  "description": "Aplicativo de análise de reclamações de qualidade e retroalimentação inteligente no PFMEA com cálculo de NPR, comparação visual e exportação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
